@@ -38,7 +38,7 @@
 				<p class="meta">Posted by <a href="#">Alex</a>of 18/5/2017 
 					&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments (64)</a> &nbsp;&bull;&nbsp; <a href="#" class="permalink">Full article</a></p>
 				<div class="entry">
-					<p>La festa es lliure  <strong> com la informacio.</strong><br /> Patrocinada per Alex Gomez Perez <br />Llicencia creative comons Reconocimento by.</p> </div>
+					<p>La festa es lliure  <strong> com la informacio.</strong><br /> Patrocinada per Alex Gomez Perez</p> </div>
 			</div>
 			<div class="post">
 				
@@ -69,8 +69,7 @@
 			
 	</div>
 	<div id="footer">
-		<p>Aquesta paguina web esta feta per Alex Gomez</a></p>
-		<p> Llicencia creative comons Reconocimento by</p>
+		<p>Aquesta paguina web esta feta per Alex Gomez</a>.</p>
 	</div>
 	<!-- end #footer -->
 </div>
